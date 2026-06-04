@@ -1,0 +1,129 @@
+SAMPLE DOCUMENT FOR POWERPOINT GENERATION DEMO + TRY
+=====================================================
+
+Use this document for the "PowerPoint from Sources" exercise.
+Copy and paste into Word, or paste directly into PowerPoint Copilot.
+
+---
+
+TITLE: AI Adoption in Federal Health Insurance Programs — Q3 Readiness Report
+
+DATE: June 2026
+
+---
+
+EXECUTIVE SUMMARY
+
+The MITG/DMID teams are 75% ready for structured Copilot adoption starting mid-June. Three foundational sessions are planned (Crawl, Walk, Run) with ~30 voluntary participants. Key milestones: Session 1 (lighter touch) mid-April, Sessions 2A/2B (apps + prompting) in May, Session 3 (Copilot Studio agents) late May. Success hinges on three factors: license availability, hands-on practice, and leadership messaging around use case ROI.
+
+---
+
+READINESS ASSESSMENT
+
+Current State
+- All ~30 MITG/DMID staff have CMS tenant access (confirmed by Boris)
+- Copilot Chat available in M365 apps (verified in GCC High environment)
+- Training materials drafted (terminology cards, demo scripts, exercise prompts)
+- IT security review passed (data protection controls aligned)
+
+Gaps Identified
+1. Lack of role-specific use case examples (currently generic Microsoft examples)
+2. No sample data files for hands-on practice
+3. Limited staff awareness of business value (why invest time in Copilot training?)
+4. Unclear decision authority on agent building permissions
+
+Risks
+- Low uptake for Sessions 2 & 3 if Session 1 doesn't create excitement
+- Licensing delays could disrupt mid-June kickoff
+- No clear "success metric" defined (what counts as adoption success?)
+
+---
+
+SESSION PLAN OVERVIEW
+
+Session 1: "Introduction to AI — Lighter Touch Hands-On" (1.5–2 hours)
+Format: Show → Try → Reflect
+Audience: All ~30 participants
+Content: Plain-language AI overview, three demo + try moments anchored to real MITG/DMID use cases
+Outcome: First Copilot experience, awareness, confidence to try on their own
+
+Session 2A: "M365 Copilot Productivity Deep Dive" (1.5–2 hours)
+Format: Demo → Replicate → Refine
+Audience: Voluntary self-selected group
+Content: Copilot in Outlook, Word, Excel, PowerPoint, SharePoint; prompt engineering
+Outcome: Practical M365 Copilot skills across all core apps
+
+Session 2B: "Copilot Hands-On Workshop — Copilot-as-Interviewer" (2 hours)
+Format: Copilot interviews each participant about their role; fully adaptive
+Audience: Voluntary, role-agnostic
+Content: Personalized use case exercises (each person gets custom prompts for their job)
+Outcome: Personalized Copilot use cases + first real artifact per participant
+
+Session 3: "Copilot Studio + AI Agents" (1.5–2 hours)
+Format: Facilitator demos only, no hands-on agent building
+Audience: Committed learners seeking certification
+Content: Intro to Copilot Studio, pre-built vs. custom agents, knowledge sources, publishing
+Outcome: Ability to explore agents, formal Microsoft certification pathway
+
+---
+
+USE CASES PRIORITIZED FOR TRAINING
+
+Tier 1 (Session 1 - Wow Factors)
+1. 2-on-2 Update Automation (UC5) — Summarize email threads into status updates (2–4 hrs/week savings per PM)
+2. PowerPoint from Sources (UC3) — Generate decks from project documents (60–80% deck time savings)
+3. Job Aids/SOPs from Meetings (UC4) — Convert meeting transcripts into step-by-step procedures (60–80% doc time savings)
+
+Tier 2 (Session 2 - Hands-On Practice)
+4. Standardized Report Generation (UC2) — Pull from Outlook + Teams content, template-driven (70–80% reporting time savings)
+5. COR Budget Tracking in Excel (UC6) — Interpret budget spreadsheets, flag inconsistencies (significant manual reduction)
+6. BCL Narrative Writing (UC10) — Draft budget justifications from prior approvals (~60% first-draft time)
+
+Tier 3 (Session 3 - Agent Demos, Future State)
+7. PWS/SOW Creation (UC11) — Agent connected to past contract library (significant acquisition time savings)
+8. Technical Proposal Review (UC12) — Agent summarizes RFP responses against eval criteria (40–60% review time)
+9. CPARS (UC9) — Referenced as aspirational, external dependency (60–70% prep time potential)
+10. IGCE Creation (UC13) — Mentioned as long-term post-certification use case
+
+---
+
+CRITICAL SUCCESS FACTORS
+
+1. Leadership Message
+Teams need to hear from Tyrone / Matthew Forsage: "AI adoption is strategic. We expect you to spend 1 hour in Session 1 and 2-3 hours in Sessions 2/3. Return on investment: faster reports, more time on strategic work, better decisions."
+
+2. Hands-On Practice
+No "death by PowerPoint." Every concept must have an immediate try. 3-5 minute free experimentation per block.
+
+3. Role-Specific Relevance
+Generic Microsoft examples don't work. Every use case demo must show MITG/DMID work (contracts, budgets, compliance, email threads from their jobs).
+
+4. Sample Data
+Students need realistic files to practice with: sample emails, project documents, meeting transcripts. Not contrived examples.
+
+5. Clear Next Steps
+After Session 1, what's the path to Session 2? Self-signup? Nomination? How do people know if they're interested?
+
+---
+
+TIMELINE
+
+- NOW → Mid-April: Content finalization, sample file kit build, 5-min orientation video
+- Mid–Late April (Friday TBD): Session 1 (all hands, ~30 participants)
+- May (dates TBD): Session 2A and 2B (voluntary, self-selected)
+- Late May+ (dates TBD): Session 3 (committed learners, certification track)
+
+---
+
+NEXT STEPS
+
+1. Lock Session 1 date with Boris/Tyrone by mid-April
+2. Finalize MITG/DMID-specific use case language and demo prompts
+3. Build fictional sample file kit (email threads, meeting transcripts, project docs)
+4. Produce 5-min orientation video (what is Copilot, where to find it, what to expect)
+5. Leadership communication: Tyrone sends message to team about why this matters
+6. Final dry-run of Session 1 demo with Hung (SME review for technical accuracy)
+
+---
+
+END OF SAMPLE DOCUMENT

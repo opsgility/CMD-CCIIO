@@ -1,0 +1,100 @@
+SAMPLE EMAIL THREAD FOR 2-ON-2 DEMO + TRY
+=========================================
+
+Use this email thread if you don't have a recent one to practice with.
+Copy and paste all three emails into Outlook, or paste into Copilot directly.
+
+---
+
+FROM: Sarah Chen <schen@cciio.cms.gov>
+TO: Project Team
+SUBJECT: Contract Modifications Review Process - Action Items & Timeline
+DATE: June 3, 2026, 2:45 PM
+
+Hi Team,
+
+Following up on our meeting this morning. I've consolidated the action items and timeline for our contract modification process overhaul:
+
+IMMEDIATE (This Week):
+- Miguel: Send the contract mod intake form template to everyone (EOD Wednesday)
+- Hung: Document which mod types are "simple" vs. "complex" for timeline estimation (by Friday)
+- I'll draft an initial SOP and send for review by Friday EOD
+
+OUTSTANDING ITEMS:
+- We still need to decide on escalation authority. Tyrone suggested any disagreements go to him, but we should confirm decision rights (scope vs. budget conflicts).
+- Timeline expectations: Standard mods = 2 weeks, Complex = 3 weeks. We need to communicate this in the intake form and initial contractor outreach.
+
+BUDGET GATE:
+- Reminder: Modifications under $10K go directly to Compliance. Over $10K require my sign-off first.
+- This is critical for compliance, so please enforce this gate strictly.
+
+The new process should go live Monday. I'll send the final SOP and intake form by Friday for your sign-off.
+
+Thanks,
+Sarah
+
+---
+
+FROM: Miguel Reyes <mreyes@cciio.cms.gov>
+TO: Sarah Chen, Project Team
+SUBJECT: RE: Contract Modifications Review Process - Action Items & Timeline
+DATE: June 3, 2026, 3:15 PM
+
+Sarah,
+
+Got it. I'll send the intake template by EOD Wednesday. One question: should the form include a "cost impact estimate" field, or do we want contractors submitting their own cost analysis?
+
+My recommendation: Have contractors provide estimated cost impact. Then I'll verify against our actuals. This way we catch surprises early.
+
+Also, can we clarify the timeline for "complex" mods? 3 weeks assumes all parties (you, Tyrone, Hung, and me) turn things around within 2-3 business days. If any one of us is out, that timeline slips. Should we build in a "out of office" buffer?
+
+—Miguel
+
+---
+
+FROM: Tyrone Thompson <tthompson@cciio.cms.gov>
+TO: Sarah Chen, Miguel, Hung
+SUBJECT: RE: Contract Modifications Review Process - Action Items & Timeline
+DATE: June 3, 2026, 4:30 PM
+
+Sarah, Miguel, Hung—
+
+This looks solid. Quick thoughts:
+
+1. On escalation: Yes, any disagreement between teams comes to me. I'll make a call within 2 business days and notify Sarah for contractor communication. Let's add this to the SOP.
+
+2. Timeline: Miguel makes a good point. Let's assume standard response time is 2 business days per person, except during blackout periods (holidays, known vacations). We should build in a "contingency" note: "If team member is out, add 1 week to timeline."
+
+3. Cost estimation: Agree with Miguel. Have contractors estimate, we verify. Reduces back-and-forth.
+
+4. One more thing: We should document "what kills a mod request" — i.e., non-starters that we reject immediately without routing. Things like mods that violate the base contract terms, mods that are out of scope per the PWS, etc.
+
+Sarah, can you add that section to the SOP?
+
+Thanks,
+Tyrone
+
+---
+
+FROM: Sarah Chen <schen@cciio.cms.gov>
+TO: Project Team
+SUBJECT: RE: Contract Modifications Review Process - Action Items & Timeline
+DATE: June 4, 2026, 9:00 AM
+
+Perfect. I'll incorporate all of these into the SOP:
+- Miguel: Cost estimation field in intake form
+- Tyrone: 2 business day response time per team, with "out of office" contingency note
+- Tyrone: Non-starters section (violations of base contract, out of scope, etc.)
+- Hung: Simple vs. complex timeline guidance
+
+I'll send the complete SOP, intake form, and communicat plan by Friday EOD. This should be ready for rollout Monday.
+
+If anyone has feedback after Friday, we can adjust and go live Tuesday instead.
+
+Thanks for the quick turnaround, team.
+
+—Sarah
+
+---
+
+END OF SAMPLE EMAIL THREAD
