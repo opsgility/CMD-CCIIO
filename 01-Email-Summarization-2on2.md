@@ -12,7 +12,9 @@
 
 1. Open **Outlook** on your work machine
 2. Find any email thread with 3+ messages (use a real recent thread or the sample below)
-3. Click the **Copilot icon** on the Outlook ribbon (right side)
+3. Copy the subject
+4. Open **Copilot** use the forward slash **/** and paste in the meeting name
+5. Paste in the prompt after
 
 ---
 
