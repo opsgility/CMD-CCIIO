@@ -1,6 +1,6 @@
 # Interview me
 
-**What you'll do:** Basic prompt to figure out different tools, techniques availab
+**What you'll do:** Basic prompt to figure out different tools, techniques available
 
 **Time:** 5-10 minutes
 
